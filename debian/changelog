@@ -1,0 +1,5 @@
+docker-squid (3.5.27-2-1) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: TODO)
+
+ -- Tong Sun <suntong@cpan.org>  Thu, 11 Jul 2019 22:32:14 -0400
